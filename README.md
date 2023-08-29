@@ -11,3 +11,6 @@ Pasos para ejecturar proyecto:
 
 1. Ejecutar ```npm run build```
 2. Tomar la carpeta ```dist``` y desplegarla
+
+## Enlace
+- Live site URL: [click here](https://linen-blackjack-vite.netlify.app/)
